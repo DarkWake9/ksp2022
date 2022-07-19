@@ -1,0 +1,11 @@
+Created earth, moon with image texture, added bump texture and other shaders for more realism
+
+added revolution animation for earth around origin which will be converted to sun
+
+added rotation animation to earth
+
+added revolution of moon around earth while earth revovles around sun/origin
+
+added rotation animation to moon
+
+completed moon rotating on it's axis and revovling around earth which in turn rotates on it's axis and revolves around the origin/sun.

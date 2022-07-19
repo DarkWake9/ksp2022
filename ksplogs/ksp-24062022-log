@@ -1,0 +1,13 @@
+Created a torus and modified it to be a precursor for donut
+
+Added imperfections to the torus to get a realistic image
+
+Created the icing layer on the donut and added minor imperfections to it
+
+Used Sculpt mode to add "droplet" of "icing droop" type of structures as frequently seen in donuts
+
+Colored the donut, adjusted the surface and sub-surface properties of the donut for more realism.
+
+Adjusted camera position and lighting.
+
+Explored rendering methods, and how to optimize them by balacing image quality and performance

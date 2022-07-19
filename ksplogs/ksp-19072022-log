@@ -1,0 +1,17 @@
+Created Image texture and noise texture for sun's surface.
+
+Used bump shader on top of the image texture
+
+Used color ramp to get realistic solar surface color
+
+Mixed image and noise textures using math shader, added it to the solar surface normals to simulate the changing solar surface on top of a base solar texture(in real life even the base changes every 11 years)
+
+Created solar atmosphereand animation i.e rising flames using quick_smoke
+
+Added emission and fresnel shaders for realistic solar surface and atmosphere
+
+Added Force field object to stimulate the rising flames of the sun
+
+Rendered the model using python entirely
+
+Task 2 COMPLETED!!!!! on 19 Jul 2022

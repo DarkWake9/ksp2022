@@ -1,0 +1,8 @@
+learnt to animate using loops in python api
+
+added revolutions and rotation effects to a sphere
+
+put image texture to the sphere to make it look like earth
+
+created a demo animation of earth rotating and revolving arouind an imaginary sun.
+a point light source substituted for the sun
